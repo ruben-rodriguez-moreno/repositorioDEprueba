@@ -7,7 +7,11 @@ public class Ejercicio5 {
     
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-      
+        String nombre;
+        int edad;
+        int altura;
+        String decision;
+        double alturareal;
         int sustos = 0;
         int golosinas = 0;
         System.out.println("Cual es tu nombre?");
