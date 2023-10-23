@@ -1,2 +1,2 @@
 # repositorioDEprueba
-Hecho por Ruben Rodriguez Moreno 
+Respositorio de prueba para clase. Hecho por Ruben Rodriguez Moreno 
